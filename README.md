@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I am a postdoctoral researcher in plant and insect genomics. I am interested in variant calling, single cell transcriptomics, epigenetics, genetic mapping, and quantitative genetics. My Github profile hosts repositories containing annotated pipelines and input data for performing variant calling and analysing differential gene expression.
+I am a postdoctoral researcher in plant and insect genomics. 
+
+I am interested in genomics, single cell transcriptomics, epigenetics, and quantitative genetics. 
+
+My Github hosts repositories containing annotated pipelines and input data for variant calling, genetic mapping, and analysing differential gene expression.
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/arunkumar-ramesh-592558244/))
 &nbsp;
