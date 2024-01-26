@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-I am a postdoctoral researcher in plant and insect genomics. I am interested in variant calling, creating reproducible code, pipeline management, transcriptomics, epigenetics, genetic mapping, and quantitative genetics.
+I am a postdoctoral researcher in plant and insect genomics. I am interested in variant calling, single cell transcriptomics, epigenetics, genetic mapping, and quantitative genetics. I have created reproducible codes and pipelines for performing variant calling and analysing differential gene expression.
 
-# Contact me
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub]([https://github.com/](https://github.com/arunkumarramesh/))
 
 
 <p align="left">
