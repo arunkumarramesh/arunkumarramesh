@@ -2,8 +2,8 @@
 
 I am a postdoctoral researcher in plant and insect genomics. I am interested in variant calling, transcriptomics, epigenetics, genetic mapping, and quantitative genetics. 
 
-<p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunkumarramesh&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="arunkumarramesh" /> 
+<p align="left">
+<img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunkumarramesh&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="arunkumarramesh" /> 
 
 
 
