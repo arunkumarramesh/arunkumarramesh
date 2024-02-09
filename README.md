@@ -6,11 +6,11 @@ I am interested in genomics, single cell transcriptomics, epigenetics, and quant
 
 My Github hosts repositories containing annotated pipelines and input data for variant calling, genetic mapping, and analysing differential gene expression.
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/arunkumar-ramesh-592558244/))
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/arunkumar-ramesh-592558244/)
 &nbsp;
 [![Linkedin](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white)](https://scholar.google.at/citations?user=lacyaGQAAAAJ&hl=de)
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub]([https://github.com/](https://github.com/arunkumarramesh/))
+[![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/arunkumarramesh/)
 
 <p align="left">
 <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunkumarramesh&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="arunkumarramesh" /> 
