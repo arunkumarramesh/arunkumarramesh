@@ -12,10 +12,7 @@ My Github hosts repositories containing annotated pipelines and input data for v
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/arunkumarramesh/)
 
-<p align="left">
-<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunkumarramesh&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="arunkumarramesh" /> 
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunkumarramesh&layout=compact)
 
 <!--
 **arunkumarramesh/arunkumarramesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
