@@ -8,7 +8,7 @@ My Github hosts repositories containing annotated pipelines and input data for v
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/arunkumar-ramesh-592558244/)
 &nbsp;
-[![Linkedin](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white)](https://scholar.google.at/citations?user=lacyaGQAAAAJ&hl=de)
+[![Linkedin](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white)](https://scholar.google.at/citations?user=lacyaGQAAAAJ&hl)
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/arunkumarramesh/)
 
