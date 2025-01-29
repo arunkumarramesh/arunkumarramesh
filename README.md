@@ -14,7 +14,7 @@ My Github hosts repositories containing annotated pipelines and input data for v
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunkumarramesh&layout=compact)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arunkumarramesh)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
